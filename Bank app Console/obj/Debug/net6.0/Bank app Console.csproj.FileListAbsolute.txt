@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Bank app Console\Bank app Console\bin\Debug\net6.0\Bank app Console.exe
+C:\Users\user\source\repos\Bank app Console\Bank app Console\bin\Debug\net6.0\Bank app Console.deps.json
+C:\Users\user\source\repos\Bank app Console\Bank app Console\bin\Debug\net6.0\Bank app Console.runtimeconfig.json
+C:\Users\user\source\repos\Bank app Console\Bank app Console\bin\Debug\net6.0\Bank app Console.dll
+C:\Users\user\source\repos\Bank app Console\Bank app Console\bin\Debug\net6.0\Bank app Console.pdb
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\Bank app Console.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\Bank app Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\Bank app Console.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\Bank app Console.AssemblyInfo.cs
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\Bank app Console.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\Bank app Console.dll
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\refint\Bank app Console.dll
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\Bank app Console.pdb
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\Bank app Console.genruntimeconfig.cache
+C:\Users\user\source\repos\Bank app Console\Bank app Console\obj\Debug\net6.0\ref\Bank app Console.dll
