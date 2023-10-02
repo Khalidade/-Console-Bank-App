@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Bank app Console\\Bank app Console\\Bank app Console.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\week-1-task-dotnet-sq016-Khalidade\\Bank app Console\\Bank app Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Bank app Console\\Bank app Console\\Bank app Console.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\week-1-task-dotnet-sq016-Khalidade\\Bank app Console\\Bank app Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Bank app Console\\Bank app Console\\Bank app Console.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\week-1-task-dotnet-sq016-Khalidade\\Bank app Console\\Bank app Console.csproj",
         "projectName": "Bank app Console",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Bank app Console\\Bank app Console\\Bank app Console.csproj",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\week-1-task-dotnet-sq016-Khalidade\\Bank app Console\\Bank app Console.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Bank app Console\\Bank app Console\\obj\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\week-1-task-dotnet-sq016-Khalidade\\Bank app Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
